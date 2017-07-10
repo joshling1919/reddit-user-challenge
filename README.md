@@ -1,5 +1,9 @@
 # Reddit User Info Coding Challenge Solution
 
+**To see the app, run `yarn install` and then run `yarn start`.**
+
+**To run the test suite, run `yarn test`.**
+
 ## Technologies Used
 ### Create React App
 
