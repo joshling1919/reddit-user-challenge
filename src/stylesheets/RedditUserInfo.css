@@ -1,0 +1,35 @@
+.username-form {
+  text-align: center;
+  padding: 25px 25px 40px 25px;
+  background: #C3DBF7;
+}
+
+label input {
+  margin: 0 10px;
+  padding: 7px;
+  border: none;
+}
+
+.error {
+	margin-top: 10px;
+	color: red;
+}
+
+.tabs {
+	padding-left: 10px;
+	background: #C3DBF7;
+	display: flex;
+}	
+
+.tab {
+	margin-left: 5px;
+	background: #EBF5FF;
+	padding: 5px;
+	font-weight: bold;
+}
+
+.selected {
+	background: white;
+	color: red;
+	border-bottom: none;
+}

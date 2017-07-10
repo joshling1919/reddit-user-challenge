@@ -1,0 +1,27 @@
+.title {
+	text-align: center;
+	padding: 20px;
+	font-weight: bold;
+}
+
+.info-wrapper {
+	border-top: 1px solid gray;
+	padding: 40px;
+	display: flex;
+}
+
+.displayed-info {
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+
+.no-info {
+	padding: 40px;
+	text-align: center;
+}
+
+.score {
+	margin-right: 15px;
+	font-weight: bold;
+	color: gray;
+}

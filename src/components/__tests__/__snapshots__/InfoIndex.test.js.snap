@@ -1,0 +1,129 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InfoIndex it renders 'no data' if index is empty 1`] = `
+<div
+  className="no-info"
+>
+  No data to show!
+</div>
+`;
+
+exports[`InfoIndex it renders the comment index 1`] = `
+<div>
+  <div
+    className="title"
+  >
+    undefined's undefined
+  </div>
+  <div
+    className="info-wrapper"
+  >
+    <div
+      className="score"
+    >
+      -2
+    </div>
+    <div
+      className="info"
+    >
+      <div
+        className="displayed-info"
+      >
+        Comment 1
+      </div>
+      <a
+        className="url"
+        href="www.reddit.com/comment/1"
+        target="_blank"
+      >
+        www.reddit.com/comment/1
+      </a>
+    </div>
+  </div>
+  <div
+    className="info-wrapper"
+  >
+    <div
+      className="score"
+    >
+      -4
+    </div>
+    <div
+      className="info"
+    >
+      <div
+        className="displayed-info"
+      >
+        Comment 2
+      </div>
+      <a
+        className="url"
+        href="www.reddit.com/comment/2"
+        target="_blank"
+      >
+        www.reddit.com/comment/2
+      </a>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`InfoIndex it renders the post index 1`] = `
+<div>
+  <div
+    className="title"
+  >
+    undefined's undefined
+  </div>
+  <div
+    className="info-wrapper"
+  >
+    <div
+      className="score"
+    >
+      7
+    </div>
+    <div
+      className="info"
+    >
+      <div
+        className="displayed-info"
+      >
+        Post 2
+      </div>
+      <a
+        className="url"
+        href="www.reddit.com/2"
+        target="_blank"
+      >
+        www.reddit.com/2
+      </a>
+    </div>
+  </div>
+  <div
+    className="info-wrapper"
+  >
+    <div
+      className="score"
+    >
+      5
+    </div>
+    <div
+      className="info"
+    >
+      <div
+        className="displayed-info"
+      >
+        Post 1
+      </div>
+      <a
+        className="url"
+        href="www.reddit.com/1"
+        target="_blank"
+      >
+        www.reddit.com/1
+      </a>
+    </div>
+  </div>
+</div>
+`;

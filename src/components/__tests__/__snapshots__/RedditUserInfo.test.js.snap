@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RedditUserInfo renders the username input and tabs 1`] = `
+<div
+  className="reddit-info"
+>
+  <form
+    className="username-form"
+    onSubmit={[Function]}
+  >
+    <label>
+      Enter Username:
+      <input
+        name="username"
+        onChange={[Function]}
+        type="text"
+      />
+    </label>
+    <input
+      type="submit"
+      value="Submit"
+    />
+    <div
+      className="error"
+    />
+  </form>
+  <div
+    className="tabs"
+  >
+    <div
+      className="tab selected"
+      onClick={[Function]}
+    >
+      Posts
+    </div>
+    <div
+      className="tab"
+      onClick={[Function]}
+    >
+      Comments
+    </div>
+  </div>
+  <Component
+    index={Array []}
+    shownInfo="posts"
+    username="a"
+  />
+</div>
+`;
